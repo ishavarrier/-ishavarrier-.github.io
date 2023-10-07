@@ -1,3 +1,4 @@
 # <Isha Varrier>'s Personal Website
 This is a personal website built using the Hack4Impact Starter Pack!
-<using git with the starter pack>
+[Visit it Here!](https://isha_varrier.github.io)
+
