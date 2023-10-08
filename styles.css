@@ -8,6 +8,7 @@
     --cg-mustard: rgb(181,136,85);
     --cg-skyblue: rgb(158,190,179);
     --cg-cream: rgb(228, 212, 193);
+    --cg-light_cream: rgb(195, 171, 141);
 
 
   }
@@ -99,6 +100,16 @@
     font-size: 40px;
     font-family: Georgia;
     padding-top: 30px;
+  }
+
+  .page-title-resume{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-family: Georgia;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: var(--cg-light_cream);
   }
 
   .introduction {
@@ -369,5 +380,8 @@
     padding-left: 30px;
 }
 
-.resume.container {
-    background-color: #ff0000; 
+.resume{
+  background: var(--cg-light_cream);
+  padding: 10px;
+}
+
